@@ -3,4 +3,4 @@
 	url = https://github.com/jasonwei20/eda_nlp.git
 [submodule "aeda_nlp"]
 	path = aeda_nlp
-	url = https://github.com/akkarimi/aeda_nlp.git
+	url = https://github.com/youngerous/aeda_nlp.git
